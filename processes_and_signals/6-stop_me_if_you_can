@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+#Displaying a script that stops file 4 without using kill
