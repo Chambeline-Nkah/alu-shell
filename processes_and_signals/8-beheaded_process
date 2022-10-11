@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
 #Displaying a script that kills file 7
+pgrep -f 7-highlander | xargs kill -9
